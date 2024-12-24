@@ -1,4 +1,4 @@
- Customer Churn Prediction (Telecom Industry)  
+## Customer Churn Prediction (Telecom Industry)  
 
 This repository contains a Jupyter Notebook dedicated to predicting customer churn in the telecom industry using machine learning techniques. The project involves exploratory data analysis, feature engineering, model training, and evaluation to identify at-risk customers and provide actionable insights for reducing churn rates. 
  Project Overview  
